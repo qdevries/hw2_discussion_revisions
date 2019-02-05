@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(178, 221, 247);
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color: rgb(161, 201, 224);
+	color: rgb(255, 255, 255);
+	
+}
+.current{text-transform: uppercase;}
+
+.upperCase{
+	text-transform: uppercase
+
+}
